@@ -1,0 +1,19 @@
+.Resume{
+    font-size: 12pt;
+    color: rgb(185, 143, 121);
+    margin-bottom: 10px;
+}
+
+h1{
+    font-size: 16pt;
+}
+h2{
+    font-size: 14pt
+}
+h3{
+    font-size: 14pt;
+
+}
+p{
+    margin: 5px 0;
+}
